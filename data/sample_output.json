@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Sample – Replace by running the scraper",
+    "url": "https://medium.com/@example",
+    "snippet": "This is an example row to illustrate structure.",
+    "email": "name@example.com",
+    "email_domain": "example.com",
+    "platform": "medium",
+    "displayed_url": "medium.com/@example",
+    "location": "Somewhere"
+  }
+]
