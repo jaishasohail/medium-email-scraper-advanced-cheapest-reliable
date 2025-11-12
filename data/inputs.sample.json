@@ -1,0 +1,15 @@
+{
+  "profiles": [
+    "https://medium.com/@ev",
+    "https://medium.com/@sarahtavel",
+    "https://medium.com/@naval"
+  ],
+  "keywords": ["writer", "founder", "tech", "ai", "web3"],
+  "email_domains": ["gmail.com", "proton.me", "bitbash.dev"],
+  "location_contains": ["san francisco", "pakistan", "london"],
+  "max_items": 100,
+  "output": {
+    "format": "json",
+    "path": "data/sample_output.json"
+  }
+}
